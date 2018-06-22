@@ -14,3 +14,9 @@
 
 ![](/assets/men-jin-quan-xian-tian-jia.jpg)
 
+> 说明
+>
+> 1.门禁分组主要用来为门禁点分组，方便授权。
+
+
+
