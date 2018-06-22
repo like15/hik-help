@@ -4,7 +4,7 @@
 
 **步骤 1**进入“门禁配置管理”，左侧展示社区树，右侧可选择门禁分组和门禁配置。
 
-![](/assets/dui-jiang-she-bei.jpg)
+![](/assets/men-jin-pei-zhi-guan-li.jpg)
 
 > 说明
 >
