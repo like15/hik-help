@@ -13,6 +13,7 @@
   * [对讲设备管理](yun-dui-jiang/dui-jiang-she-bei-guan-li.md)
   * [对讲日志查询](yun-dui-jiang/dui-jiang-ri-zhi-cha-xun.md)
 * [云门禁](yun-men-jin.md)
+  * [门禁配置管理](yun-men-jin/men-jin-pei-zhi-guan-li.md)
 * [云访客](yun-fang-ke.md)
 * [车网中心](che-wang-zhong-xin.md)
   * [停车场管理](ting-che-chang-guan-li.md)
