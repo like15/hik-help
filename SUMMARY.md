@@ -9,6 +9,7 @@
   * [社区管理](ji-chu-gong-neng/she-qu-zhong-xin/she-qu-guan-li.md)
   * [房屋管理](ji-chu-gong-neng/she-qu-zhong-xin/fang-wu-guan-li.md)
   * [人员管理](ji-chu-gong-neng/she-qu-zhong-xin/ren-yuan-guan-li.md)
+  * [卡片管理](ji-chu-gong-neng/she-qu-zhong-xin/qia-pian-guan-li.md)
 * [云对讲](yun-dui-jiang.md)
   * [对讲设备管理](yun-dui-jiang/dui-jiang-she-bei-guan-li.md)
   * [对讲日志查询](yun-dui-jiang/dui-jiang-ri-zhi-cha-xun.md)
