@@ -4,7 +4,7 @@
 
 **步骤 1**进入“社区管理”，左侧展示社区树，右侧展示社区列表。
 
-![](/assets/she-qu-guan-li.jpg)
+![](/assets/she-qu-guan-li.png)
 
 > 说明
 >
@@ -15,7 +15,7 @@
 
 **步骤 2**点击“添加”进入社区信息添加界面，输入相应的信息，点击保存完成配置。
 
-![](/assets/she-qu-tian-jia.jpg)
+![](/assets/she-qu-tian-jia.png)
 
 > 说明
 >
