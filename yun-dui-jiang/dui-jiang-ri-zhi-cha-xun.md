@@ -4,7 +4,7 @@
 
 进入“对讲日志查询”，左侧展示社区树，右侧展示选中社区下门口机呼叫记录列表。
 
-![](/assets/dui-jiang-ri-zhi.jpg)
+![](/assets/dui-jiang-ri-zhi.png)
 
 > 说明
 >

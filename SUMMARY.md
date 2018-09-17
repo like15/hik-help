@@ -11,10 +11,10 @@
   * [人员管理](ji-chu-gong-neng/she-qu-zhong-xin/ren-yuan-guan-li.md)
   * [卡片管理](ji-chu-gong-neng/she-qu-zhong-xin/qia-pian-guan-li.md)
 * [云对讲](yun-dui-jiang.md)
-  * [对讲设备管理](yun-dui-jiang/dui-jiang-she-bei-guan-li.md)
   * [对讲日志查询](yun-dui-jiang/dui-jiang-ri-zhi-cha-xun.md)
+  * [信息发布](yun-dui-jiang/dui-jiang-she-bei-guan-li.md)
 * [云门禁](yun-men-jin.md)
-  * [门禁配置管理](yun-men-jin/men-jin-pei-zhi-guan-li.md)
+* [门禁配置管理](yun-men-jin/men-jin-pei-zhi-guan-li.md)
 * [云视频](yun-fang-ke.md)
   * 视频巡查
   * [图片中心](yun-fang-ke/tu-pian-zhong-xin.md)
