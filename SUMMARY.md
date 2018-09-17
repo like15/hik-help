@@ -27,8 +27,10 @@
 * [9.信息发布](xin-xi-fa-bu.md)
 * [10.物业服务](wu-ye-fu-wu.md)
 * [11.访客管理](fang-ke-guan-li.md)
-* [系统管理](xi-tong-guan-li.md)
-  * [用户管理](xi-tong-guan-li/yong-hu-guan-li.md)
-  * [角色管理](xi-tong-guan-li/jiao-se-guan-li.md)
-  * [操作日志管理](xi-tong-guan-li/cao-zuo-ri-zhi-guan-li.md)
+* [12.系统管理](xi-tong-guan-li.md)
+  * [12.1用户管理](xi-tong-guan-li/yong-hu-guan-li.md)
+  * [12.2角色管理](xi-tong-guan-li/jiao-se-guan-li.md)
+  * 12.3设备管理
+  * 12.4自动抓图配置
+  * [12.5操作日志管理](xi-tong-guan-li/cao-zuo-ri-zhi-guan-li.md)
 
