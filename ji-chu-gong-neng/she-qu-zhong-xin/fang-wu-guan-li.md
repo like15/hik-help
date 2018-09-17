@@ -4,7 +4,7 @@
 
 **步骤 1**进入“房屋管理”，左侧展示小区列表，右侧展示社区下的楼栋、单元和户室信息。
 
-![](/assets/hu-shi-xin-xi.jpg)
+![](/assets/fang-wu-guan-li.png)
 
 > 说明
 >
@@ -14,7 +14,7 @@
 
 **步骤 2**点击“楼栋配置”进入楼栋配置页签，点击“添加”，输入楼栋单元信息并保存配置。
 
-![](/assets/lou-dong-tian-jia.jpg)
+![](/assets/lou-dong-tian-jia.png)
 
 > 说明
 >
