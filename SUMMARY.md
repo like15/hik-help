@@ -15,7 +15,9 @@
   * [对讲日志查询](yun-dui-jiang/dui-jiang-ri-zhi-cha-xun.md)
 * [云门禁](yun-men-jin.md)
   * [门禁配置管理](yun-men-jin/men-jin-pei-zhi-guan-li.md)
-* [云访客](yun-fang-ke.md)
+* [云视频](yun-fang-ke.md)
+  * 视频巡查
+  * [图片中心](yun-fang-ke/tu-pian-zhong-xin.md)
 * [车网中心](che-wang-zhong-xin.md)
   * [停车场管理](ting-che-chang-guan-li.md)
   * [车辆管理](che-liang-guan-li.md)
