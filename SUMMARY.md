@@ -14,7 +14,7 @@
   * [5.1对讲日志查询](yun-dui-jiang/dui-jiang-ri-zhi-cha-xun.md)
   * [5.2信息发布](yun-dui-jiang/dui-jiang-she-bei-guan-li.md)
 * [6.云门禁](yun-men-jin.md)
-  * [6.1门禁配置管理](yun-men-jin/61men-jin-pei-zhi-guan-li.md)
+  * [6.1门禁管理](yun-men-jin/61men-jin-pei-zhi-guan-li.md)
 * [7.云视频](yun-fang-ke.md)
   * [7.1视频巡查](yun-fang-ke/shi-pin-xun-cha.md)
   * [7.2图片中心](yun-fang-ke/tu-pian-zhong-xin.md)
