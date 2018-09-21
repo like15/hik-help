@@ -4,7 +4,7 @@
 
 **步骤 1**进入“车辆管理”，展示车辆列表。
 
-![](/assets/che-liang-guan-li.jpg)
+![](/assets/che-liang-guan-li.png)
 
 说明
 

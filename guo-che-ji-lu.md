@@ -4,7 +4,7 @@
 
 **步骤 1**进入“过车记录”，展示过车信息。
 
-![](/assets/guo-che-ji-lu.jpg)
+![](/assets/guo-che-ji-lu.png)
 
 说明
 

@@ -4,11 +4,11 @@
 
 **步骤 1**进入“停车场管理”，展示停车场列表。
 
-![](/assets/ting-che-chang-guan-li.jpg)
+![](/assets/ting-che-chang-guan-li.png)
 
 **步骤 2 **点击“添加”，展示停车场添加界面，输入相应的信息，点击保存完成配置。
 
-![](/assets/ting-che-chang-tian-jia.jpg)
+![](/assets/ting-che-chang-tian-jia.png)
 
 说明
 

@@ -4,7 +4,7 @@
 
 **步骤 1**进入“缴费记录”，展示缴费记录信息。
 
-![](/assets/jiao-fei-ji-lu.jpg)
+![](/assets/jiao-fei-ji-lu.png)
 
 说明
 
