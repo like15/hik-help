@@ -36,5 +36,5 @@
   * [12.5操作日志管理](xi-tong-guan-li/cao-zuo-ri-zhi-guan-li.md)
 * [13.配置说明](13pei-zhi-shuo-ming.md)
   * [12.1网关配置](13pei-zhi-shuo-ming/wang-guan-pei-zhi.md)
-  * 12.2出入口管理终端配置
+  * [12.2出入口管理终端配置](13pei-zhi-shuo-ming/122chu-ru-kou-guan-li-zhong-duan-pei-zhi.md)
 
