@@ -32,6 +32,6 @@
   * [12.1用户管理](xi-tong-guan-li/yong-hu-guan-li.md)
   * [12.2角色管理](xi-tong-guan-li/jiao-se-guan-li.md)
   * [12.3设备管理](xi-tong-guan-li/123she-bei-guan-li.md)
-  * 12.4自动抓图配置
+  * [12.4自动抓图配置](xi-tong-guan-li/124zi-dong-zhua-tu-pei-zhi.md)
   * [12.5操作日志管理](xi-tong-guan-li/cao-zuo-ri-zhi-guan-li.md)
 
