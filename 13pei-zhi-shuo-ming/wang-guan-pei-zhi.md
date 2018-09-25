@@ -2,11 +2,9 @@
 
 ---
 
-**步骤 1**登录平台， 下载网关安装文件并安装。
+**步骤 1**登录平台， 下载网关安装文件并安装， 然后进入“社区管理”列表， 获取需要配置的社区网关编号。![](https://pbsq.hik-cloud.com/static/help/assets/wang-guan-bian-hao.jpg)
 
-![](/assets/wang-guan-xia-zai.jpg)
-
-**步骤 2**进入“社区管理”列表， 获取需要配置的社区网关编号。![](https://pbsq.hik-cloud.com/static/help/assets/wang-guan-bian-hao.jpg)**步骤3**进入网关（Watchdog）安装目录，并打开网关配置文件（HIKCLOUD\EDAG\EDAG\edag.json），配置gatewayCode、EstateEntityCode、HttpServerIp、HttpServerPort， 配置完成后请重新启动网关。如下图：
+**步骤2**进入网关（Watchdog）安装目录，并打开网关配置文件（HIKCLOUD\EDAG\EDAG\edag.json），配置gatewayCode、EstateEntityCode、HttpServerIp、HttpServerPort， 配置完成后请重新启动网关。如下图：
 
 {
 
