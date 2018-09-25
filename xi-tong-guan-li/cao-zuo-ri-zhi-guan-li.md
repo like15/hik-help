@@ -4,7 +4,7 @@
 
 **步骤 1**进入“操作日志管理”，右侧展示所有用户的操作记录。
 
-![](/assets/cao-zuo-ri-zhi.jpg)
+![](/assets/cao-zuo-ri-zhi.png)
 
 > 说明
 >
