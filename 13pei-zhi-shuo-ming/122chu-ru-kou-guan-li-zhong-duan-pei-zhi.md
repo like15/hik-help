@@ -6,9 +6,15 @@
 
 **步骤 1**配置本地IP地址。
 
-![](https://pbsq.hik-cloud.com/static/help/assets/pms-ip-pei-zhi.jpg)
+![](/assets/pms_ip_config.jpg)
 
-**步骤 2**对接参数配置， 需要配置对接地址、终端编号、停车场编号、秘钥和HTTP端口号。![](https://pbsq.hik-cloud.com/static/help/assets/pms-can-shu-pei-zhi.jpg)参数说明：
+**步骤 2**对接参数配置， 需要配置对接地址、终端编号、停车场编号、秘钥和HTTP端口号。
+
+![](/assets/pms_cloud_config.jpg)
+
+
+
+参数说明：
 
 对接地址：网关地址（Watchdog）。
 
